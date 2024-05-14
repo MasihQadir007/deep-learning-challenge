@@ -10,7 +10,7 @@ The purpose of this analysis was to create a deep learning model using neural ne
 
 **Compiling, Training, and Evaluating the Model:**
 - **Neurons, Layers, and Activation Functions:** We selected a neural network model with multiple layers, including dense layers with 256, 128, 64, 32, 16, 8, and 4 neurons respectively. Each layer utilized the ReLU activation function to introduce non-linearity.
-- **Achieving Target Model Performance:** Unfortunately, we were not able to achieve the target model performance of 80% accuracy. The model performance reached approximately X% accuracy.
+- **Achieving Target Model Performance:** Unfortunately, we were not able to achieve the target model performance of 75% accuracy. The model performance reached approximately 74% accuracy.
 - **Steps Taken to Increase Model Performance:** To improve the model's performance, we experimented with adding more layers, increasing the number of neurons, and adjusting the activation functions. However, despite these efforts, the model's accuracy did not reach the desired target.
 
 **Summary:**
